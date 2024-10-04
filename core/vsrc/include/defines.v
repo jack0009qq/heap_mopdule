@@ -1,0 +1,2 @@
+`define XLEN 32
+
